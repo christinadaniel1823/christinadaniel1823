@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Christina Albert Daniel</h1>
 <h3 align="center">A passionate data analytics and engineering expert with a track record of delivering impactful business results.</h3>
+<h3 align="center">A rich mix of data analytics and engineering skills, with a proven track record of using Python, SQL, and BI tools to drive 20% brand visibility gains and triple sales. I am innovative and my  project leadership and social engagement round out a profile ideal for data-driven roles.</h3>
 
 <p align="center">
   <img width="50%" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
